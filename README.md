@@ -46,7 +46,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EX1 : MonoBehaviour
+public class hello : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -65,7 +65,7 @@ public class EX1 : MonoBehaviour
 
 ## Output:
 
-![image](https://user-images.githubusercontent.com/95067176/226516321-115576ba-f604-4328-8a58-3592b710e169.png)
+![Screenshot (169)](https://github.com/sasidharan403/Rotating-the-Gaming-Object/assets/94154712/79fcfdda-a547-4368-8d4b-8b38ed675ced)
 
 
 ## Result:
